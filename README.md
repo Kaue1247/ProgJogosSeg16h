@@ -8,7 +8,7 @@ Casca Rejeitada
 textura queimada tonalidade cinza, anda igual um zumbi com os braços para frente
 
 ## Genero: 
-Roguelike, RPG
+Terror
 
 
 
