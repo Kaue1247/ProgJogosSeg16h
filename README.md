@@ -1,10 +1,14 @@
-# Nome do jogo: Asfalto Seco
+# Nome do jogo: 
+Asfalto Seco
 
-## Nome do Protagonista: Casca Rejeitada
+## Nome do Protagonista: 
+Casca Rejeitada
 
-## Aparencia: textura queimada tonalidade cinza, anda igual um zumbi com os braços para frente
+## Aparencia: 
+textura queimada tonalidade cinza, anda igual um zumbi com os braços para frente
 
-## Genero: Roguelike, RPG
+## Genero: 
+Roguelike, RPG
 
 
 
